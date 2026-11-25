@@ -4,5 +4,4 @@ A ReAct (Reason + Act) tool-calling AI agent built with **LangGraph** and **Goog
 
 ## Official Documentation & Multi-Agent References
 * [LangChain Multi-Agent Overview & Patterns](https://langchain.com)
-* [Build a Personal Assistant with Subagents Tutorial](https://langchain.com/subagents-personal-assistant)
-* [LangGraph Overview & Low-Level Orchestration](https://langchain.com)
+
